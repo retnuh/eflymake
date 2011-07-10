@@ -1,0 +1,4 @@
+1) Use build_flymake.sh to compile flymake.erl into the eflymake script.
+2) Replace your existing eflymake script with the newly built one.
+
+NOTE: Don't forget to make a back up copy of your original eflymake in case this one has bugs!
